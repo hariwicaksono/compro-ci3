@@ -173,23 +173,9 @@ $nav_profil     = $this->nav_model->nav_profil();
 <!-- End Scrolling -->
 
 
-</div>
+<script type="text/javascript" src="<?php echo base_url() ?>assets/wingman/js/jquery.min.js"></script>
+<script type="text/javascript" src="<?php echo base_url() ?>assets/wingman/js/bootstrap.js"></script>
 
-
-<script type="text/javascript" src="<?php echo base_url() ?>assets/tema/assets/js/jquery-2.2.3.min.js"></script>
-<script type="text/javascript" src="<?php echo base_url() ?>assets/tema/assets/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="<?php echo base_url() ?>assets/tema/assets/js/jquery.easing.1.3.js"></script>
-<script type="text/javascript" src="<?php echo base_url() ?>assets/tema/assets/js/jquery.waypoints.min.js"></script>
-<script type="text/javascript" src="<?php echo base_url() ?>assets/tema/assets/js/jquery.counterup.min.js"></script>
-<script type="text/javascript" src="<?php echo base_url() ?>assets/tema/assets/js/swiper.min.js"></script>
-<script type="text/javascript" src="<?php echo base_url() ?>assets/tema/assets/js/lightcase.js"></script>
-<script type="text/javascript" src="<?php echo base_url() ?>assets/tema/assets/js/jquery.nstSlider.js"></script>
-<script type="text/javascript" src="<?php echo base_url() ?>assets/tema/assets/js/jquery.flexslider.js"></script>
-<script type="text/javascript" src="<?php echo base_url() ?>assets/tema/assets/js/custom.map.js"></script>
-<script type="text/javascript" src="<?php echo base_url() ?>assets/tema/assets/js/plugins.isotope.js"></script>
-<script type="text/javascript" src="<?php echo base_url() ?>assets/tema/assets/js/isotope.pkgd.min.js"></script>
-<script type="text/javascript" src="<?php echo base_url() ?>assets/tema/assets/js/custom.isotope.js"></script>
-<script type="text/javascript" src="<?php echo base_url() ?>assets/tema/assets/js/custom.js"></script>
 <!-- Select2 -->
 <script src="<?php echo base_url() ?>assets/admin/plugins/select2/select2.full.min.js"></script>
 <!-- DataTables JS -->
